@@ -10,8 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ChaiDesignSystem" />
+            <option value="$PROJECT_DIR$/Chai" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chaiDemo" />
           </set>
         </option>
       </GradleProjectSettings>
